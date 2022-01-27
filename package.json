@@ -5,14 +5,14 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/roefinoavrililo/Discord.JS-Leveling-Bot.git"
+    "url": "git+https://github.com/ofek1970/Level-Up-System.git"
   },
   "author": "roefinoavrililo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/roefinoavrililo/Discord.JS-Leveling-Bot/issues"
+    "url": "https://github.com/ofek1970/Level-Up-System"
   },
-  "homepage": "https://github.com/roefinoavrililo/Discord.JS-Leveling-Bot#readme",
+  "homepage": "https://github.com/ofek1970/Level-Up-System",
   "engines": {
     "node": ">=12.0.0"
   },
